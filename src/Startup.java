@@ -3,7 +3,7 @@ import model.ContaPoupanca;
 
 import java.util.Scanner;
 
-public class Main {
+public class Startup {
     public static void main(String[] args) {
 
         System.out.println("***** Banco Digital Dio *****");
@@ -29,6 +29,7 @@ public class Main {
                 System.out.print("Digite o seu nome: ");
                 String nome = sc.nextLine();
                 cp.informaNomeCliente(nome);
+                System.out.print("digite a sua agência: ");
                 int numeroAgencia = sc.nextInt();
                 cp.informeNumeroAgencia(numeroAgencia);
                 System.out.print("digite a sua conta: ");
