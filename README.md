@@ -44,7 +44,7 @@ Construir projeto de banco digital utilizando:
   |  └── ContaPoupanca.java
   └── Startup.java
 ```
-## ✍️ Autor da modificação
+## ✍️ Autor
 - Jhonata Jansen
 - Estudante de Engenharia de Software
 - paixonado por tecnologia e boas práticas de desenvolvimento!
